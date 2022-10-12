@@ -1,8 +1,10 @@
-import { Recipe } from "./recipe";
-import recipes from "./"
+import { Recipe } from "./Recipe";
+import recipes from "./recipes.json";
 
 export const App = () => {
-  return <div>
-    <Recipe recipe={ } />
-  </div>;
+  return (
+    <div>
+      <Recipe recipe={ recipes[0] } />
+    </div>
+  );
 };
