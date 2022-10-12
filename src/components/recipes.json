@@ -1,0 +1,17 @@
+[
+  {
+    name: 'smoked salmon burger',
+    time: '20',
+    servings: 6,
+    calories: 210,
+    image: '#',
+    },
+  {
+    name: 'smoked salmon burger',
+    time: '20',
+    servings: 6,
+    calories: 210,
+    image: '#',
+    },
+    
+];
