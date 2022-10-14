@@ -1,6 +1,5 @@
 import { BsAlarm } from "react-icons/bs";
-import { HiOutlineChartPie } from "react-icons/hi";
-import { HiOutlineChartBar } from "react-icons/hi";
+import { HiOutlineChartPie, HiOutlineChartBar } from "react-icons/hi";
 
 export const Recipe = ({ recipe: { name, time, servings, calories } }) => {
   return (
