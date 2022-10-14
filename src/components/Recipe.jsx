@@ -1,4 +1,6 @@
-import { TfiAlarmClock } from "react-icons/tfi"
+import { BsAlarm } from "react-icons/bs";
+import { HiOutlineChartPie } from "react-icons/hi";
+import { HiOutlineChartBar } from "react-icons/hi";
 
 export const Recipe = ({ recipe: { name, time, servings, calories } }) => {
   return (
@@ -6,18 +8,19 @@ export const Recipe = ({ recipe: { name, time, servings, calories } }) => {
       <h2>{name}</h2>
       <div>
         <div>
-          <TfiAlarmClock />
+          <BsAlarm />
           <p>{time} mins</p>
         </div>
         <div>
-          <span>Icon</span>
+          <HiOutlineChartPie />
           <p>{servings} servings</p>
         </div>
         <div>
-          <span>Icon</span>
+          <HiOutlineChartBar />
           <p>{calories} calories</p>
         </div>
       </div>
     </div>
   );
 };
+// BsFillAlarmFill
