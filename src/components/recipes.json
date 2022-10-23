@@ -1,26 +1,29 @@
 [
   {
     "id": 1,
-    "name": "smoked salmon burger",
+    "name": "Smoked salmon burger",
     "time": "20",
     "servings": 6,
     "calories": 210,
+    "difficulty": "", "", "",
     "image": "https://assets.bonappetit.com/photos/59382129bc13c9448b53deb6/master/w_1280,c_limit/Salmon%20Burger_20170522%20WEB10249.jpg"
     },
   {
     "id": 2,
-    "name": "tomatoesc with creamy feta",
+    "name": "Tomatoesc with creamy feta",
     "time": "15",
     "servings": 3,
     "calories": 600,
+    "difficulty": "", "", "",
     "image": "https://assets.bonappetit.com/photos/62b4926736e0c90647da6b71/1:1/w_1600,c_limit/0623-diana-yen-tomato-recipe-lede.jpg"
     },    
   {
     "id": 3,
-    "name": "green chile pasta",
+    "name": "Green chile pasta",
     "time": "25",
     "servings": 2,
     "calories": 800,
+    "difficulty": "", "", "",
     "image": "https://assets.bonappetit.com/photos/62e7f53ac6161d2dd676d32c/1:1/w_1600,c_limit/2022-VG-BA-PASTA-Pork-Pasta-12333.jpg"
     }
 ]
