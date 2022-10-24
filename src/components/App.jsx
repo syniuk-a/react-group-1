@@ -1,4 +1,4 @@
-import { RecipeList } from "./RecipeList";
+import { RecipeList } from "./RecipeList/RecipeList";
 import recipes from "./recipes.json";
 
 export const App = () => {
@@ -8,3 +8,4 @@ export const App = () => {
     </div>
   );
 };
+

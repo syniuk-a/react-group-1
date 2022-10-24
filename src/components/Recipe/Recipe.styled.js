@@ -8,13 +8,3 @@ export const Wrapper = styled.div`
 export const Title = styled.h2`
   margin-bottom: 16px;
 `;
-export const RecipeInfo = styled.div`
-  display: flex;
-  align-items: center;
-  gap: 8px;
-`;
-export const InfoBlock = styled.div`
-  display: flex;
-  align-items: center;
-  gap: 4px;
-`;

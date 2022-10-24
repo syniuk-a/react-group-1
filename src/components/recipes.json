@@ -5,7 +5,7 @@
     "time": "20",
     "servings": 6,
     "calories": 210,
-    "difficulty": "", "", "",
+    "difficulty": "easy",
     "image": "https://assets.bonappetit.com/photos/59382129bc13c9448b53deb6/master/w_1280,c_limit/Salmon%20Burger_20170522%20WEB10249.jpg"
     },
   {
@@ -14,7 +14,7 @@
     "time": "15",
     "servings": 3,
     "calories": 600,
-    "difficulty": "", "", "",
+    "difficulty": "easy",
     "image": "https://assets.bonappetit.com/photos/62b4926736e0c90647da6b71/1:1/w_1600,c_limit/0623-diana-yen-tomato-recipe-lede.jpg"
     },    
   {
@@ -23,7 +23,16 @@
     "time": "25",
     "servings": 2,
     "calories": 800,
-    "difficulty": "", "", "",
+    "difficulty": "medium",
     "image": "https://assets.bonappetit.com/photos/62e7f53ac6161d2dd676d32c/1:1/w_1600,c_limit/2022-VG-BA-PASTA-Pork-Pasta-12333.jpg"
+    },
+  {
+    "id": 4,
+    "name": "Shrimp Pasta With Preserved Lemon",
+    "time": "32",
+    "servings": 4,
+    "calories": 950,
+    "difficulty": "hard",
+    "image": "https://assets.bonappetit.com/photos/631a0fed0d376dca32f933f3/1:1/w_1600,c_limit/0908-1022familymeal-shrimp-pasta.jpg"
     }
 ]
